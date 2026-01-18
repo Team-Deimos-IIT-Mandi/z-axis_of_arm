@@ -1,8 +1,14 @@
 # Vertical Axis Rotation Subsystem For Robotic Arm
 
+## 🎥 Demonstration Video
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0e27fc9-5d7a-41c8-b8e4-456585ef3fe5" alt="Subsystem Render by Nirbhik" width="600"/>
+  <a href="https://github.com/user-attachments/assets/341c3de1-a31b-4629-a657-334d23a488da">
+  </a>
+  <a href="https://github.com/user-attachments/assets/2b814557-f893-48dc-988c-a026f2d75233">
+  </a>
 </p>
+
 
 ---
 
@@ -60,6 +66,7 @@ and some other stiffening and miscellaneous holding parts.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba5b4af4-4e4f-4f82-9077-7dcdf38bc6ec" alt="nirbhik renders" width="400"/>
   <img src="https://github.com/user-attachments/assets/c2850164-6eaa-4408-abc3-d4fd9ebf892c" alt="Subsystem Render 2" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c0e27fc9-5d7a-41c8-b8e4-456585ef3fe5" alt="Subsystem Render by Nirbhik" width="600"/>
 </p>
 
 ---
