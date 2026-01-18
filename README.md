@@ -3,10 +3,14 @@
 ## 🎥 Demonstration Video
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/341c3de1-a31b-4629-a657-334d23a488da">
-  </a>
-  <a href="https://github.com/user-attachments/assets/2b814557-f893-48dc-988c-a026f2d75233">
-  </a>
+<video src="https://github.com/user-attachments/assets/2b814557-f893-48dc-988c-a026f2d75233" 
+       controls 
+       width="600">
+</video>
+<video src="https://github.com/user-attachments/assets/341c3de1-a31b-4629-a657-334d23a488da" 
+       controls 
+       width="600">
+</video>
 </p>
 
 
@@ -70,6 +74,3 @@ and some other stiffening and miscellaneous holding parts.
 </p>
 
 ---
-
-https://github.com/user-attachments/assets/2b814557-f893-48dc-988c-a026f2d75233
-
