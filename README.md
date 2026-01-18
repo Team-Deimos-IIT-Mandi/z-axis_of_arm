@@ -17,15 +17,15 @@ The subsystem consists of:
 
 - **Base Plate**  
   - Reinforced with stiffeners for rigidity  
-  - Modified design for improved robustness  
+  - Contains all the other components mounted on it
 
 - **Motor & Shaft Plate with Clamps**  
   - Secure mounting for motor and shaft  
   - Shaft passes through clamps with **shaft collar** and **bearing** attached  
 
 - **Pulley & Belt Drive System**  
-  - Shaft pulley: **22 teeth, 12 mm bore, 3M pitch (S3M), 10 mm width**  
-  - Motor pulley: **22 teeth, K-type, 8 mm bore, 3M pitch, 10 mm width**  
+  - Shaft pulley: **22 teeth, 12 mm bore, 3mm pitch, 10 mm width**  
+  - Motor pulley: **22 teeth, K-type, 8 mm bore, 3mm pitch, 10 mm width**  
   - Coupled via **3M pitch, 10 mm wide belt**  
   - Belt tensioners on both sides (adjustable) → increases belt contact with pulleys  
 
