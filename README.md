@@ -1,4 +1,4 @@
-# 🚀 Vertical Axis Rotation Subsystem – Mars Rover (IIT Mandi)
+# Vertical Axis Rotation Subsystem – Mars Rover (IIT Mandi)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c0e27fc9-5d7a-41c8-b8e4-456585ef3fe5" alt="Subsystem Render by Nirbhik" width="600"/>
