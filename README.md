@@ -1,6 +1,6 @@
 # Vertical Axis Rotation Subsystem For Robotic Arm
 
-## 🎥 Demonstration Video
+##  Demonstration Video
 
 <p align="center">
 <video src="https://github.com/user-attachments/assets/2b814557-f893-48dc-988c-a026f2d75233" 
@@ -16,13 +16,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 This repository contains the **SolidWorks assembly** of the **vertical axis rotation subsystem** of the robotic arm for the Mars Rover developed at **IIT Mandi**.  
 The subsystem enables **precise rotation around the vertical axis**, ensuring robust and reliable performance in planetary exploration environments.
 
 ---
 
-## ⚙️ Assembly Description
+##  Assembly Description
 The subsystem consists of:
 
 - **Base Plate**  
@@ -41,7 +41,7 @@ The subsystem consists of:
 
 ---
 
-## 🔧 Key Features
+##  Key Features
 - **Modified Base Plate** → stronger and more rigid  
 - **New Motor Integration** → improved torque and efficiency  
 - **Belt Drive System** → smoother transmission and reduced backlash  
@@ -49,7 +49,7 @@ The subsystem consists of:
 
 ---
 
-## 📊 Technical Specifications
+##  Technical Specifications
 
 | Component        | Specification |
 |------------------|---------------|
@@ -66,7 +66,7 @@ The subsystem consists of:
 and some other stiffening and miscellaneous holding parts.
 ---
 
-## 🖼️ Rendered Images
+##  Rendered Images
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ba5b4af4-4e4f-4f82-9077-7dcdf38bc6ec" alt="nirbhik renders" width="400"/>
   <img src="https://github.com/user-attachments/assets/c2850164-6eaa-4408-abc3-d4fd9ebf892c" alt="Subsystem Render 2" width="400"/>
